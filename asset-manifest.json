@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/microinteractions/static/css/main.2db6b990.css",
+    "main.js": "/microinteractions/static/js/main.39e03d68.js",
+    "static/js/453.8149f7a4.chunk.js": "/microinteractions/static/js/453.8149f7a4.chunk.js",
+    "index.html": "/microinteractions/index.html",
+    "main.2db6b990.css.map": "/microinteractions/static/css/main.2db6b990.css.map",
+    "main.39e03d68.js.map": "/microinteractions/static/js/main.39e03d68.js.map",
+    "453.8149f7a4.chunk.js.map": "/microinteractions/static/js/453.8149f7a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db6b990.css",
+    "static/js/main.39e03d68.js"
+  ]
+}
