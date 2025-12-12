@@ -1,13 +1,15 @@
+"use client";
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import MicroInteractionsPage from '../../thairath-ui/src/micro-interactions/index';
+//import { TROLThemeProvider } from "@thairath/tr-design-system";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+      <MicroInteractionsPage />
   </React.StrictMode>
 );
 
